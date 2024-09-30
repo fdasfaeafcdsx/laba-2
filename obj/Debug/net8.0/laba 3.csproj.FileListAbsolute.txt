@@ -1,0 +1,14 @@
+C:\Users\ekras\Desktop\laba 3\obj\Debug\net8.0\laba 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekras\Desktop\laba 3\obj\Debug\net8.0\laba 3.AssemblyInfoInputs.cache
+C:\Users\ekras\Desktop\laba 3\obj\Debug\net8.0\laba 3.AssemblyInfo.cs
+C:\Users\ekras\Desktop\laba 3\obj\Debug\net8.0\laba 3.csproj.CoreCompileInputs.cache
+C:\Users\ekras\Desktop\laba 3\bin\Debug\net8.0\laba 3.exe
+C:\Users\ekras\Desktop\laba 3\bin\Debug\net8.0\laba 3.deps.json
+C:\Users\ekras\Desktop\laba 3\bin\Debug\net8.0\laba 3.runtimeconfig.json
+C:\Users\ekras\Desktop\laba 3\bin\Debug\net8.0\laba 3.dll
+C:\Users\ekras\Desktop\laba 3\bin\Debug\net8.0\laba 3.pdb
+C:\Users\ekras\Desktop\laba 3\obj\Debug\net8.0\laba 3.dll
+C:\Users\ekras\Desktop\laba 3\obj\Debug\net8.0\refint\laba 3.dll
+C:\Users\ekras\Desktop\laba 3\obj\Debug\net8.0\laba 3.pdb
+C:\Users\ekras\Desktop\laba 3\obj\Debug\net8.0\laba 3.genruntimeconfig.cache
+C:\Users\ekras\Desktop\laba 3\obj\Debug\net8.0\ref\laba 3.dll
